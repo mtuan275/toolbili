@@ -1,5 +1,6 @@
 pyTelegramBotAPI
 yt-dlp
-openai-whisper
+SpeechRecognition
+pydub
 flask
 gunicorn

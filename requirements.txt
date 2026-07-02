@@ -1,5 +1,5 @@
 pyTelegramBotAPI
-yt-dlp
+git+https://github.com
 SpeechRecognition
 pydub
 flask
